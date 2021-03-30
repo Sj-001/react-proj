@@ -1,0 +1,14 @@
+.body {
+  justify-content: center;
+}
+
+img {
+  height: 60vh;
+  width: 100vh;
+  margin: 10px;
+  margin-right: 100px;
+}
+
+input {
+  margin: 10px;
+}

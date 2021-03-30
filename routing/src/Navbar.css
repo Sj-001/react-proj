@@ -1,0 +1,8 @@
+ul {
+  background-color: blue;
+}
+
+li {
+  display: inline;
+  margin: 10px;
+}
